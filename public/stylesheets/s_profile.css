@@ -1,0 +1,53 @@
+
+.card{
+    border: none;
+    padding: 1%;
+}
+
+    .bar {
+        width: 100%;
+    }
+
+    .initials {
+        font-size: 7rem;
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+
+
+    .form-control[readonly] {
+        border: none;
+    }
+
+    article {
+        max-width: 980px;
+        margin: 30px auto;
+    }
+
+    input {
+        margin-bottom: 10px;
+    }
+
+    .avatar {
+        display: inline-block;
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 71px;
+        background: green;
+        font-family: Arial;
+        font-weight: 500;
+        color: #fff;
+        font-size: 45px;
+    }
+
+    div>span {
+        margin: 10px;
+    }
+
+    /* FOR BACKGROUND */
+main {
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);}
+

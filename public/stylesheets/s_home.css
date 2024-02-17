@@ -1,0 +1,15 @@
+.btn-group .btn {
+    transition: background-color .3s ease;
+}
+
+.table > thead > tr > th {
+    border-bottom: none;
+}
+
+.panel-footer, .panel-table .panel-body .table-bordered {
+    border-style: none;
+}
+
+.panel-table .panel-body .table-bordered > thead > tr > th.col-tools {
+    text-align: center;
+}
